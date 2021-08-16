@@ -13,6 +13,8 @@ A technology stack is a set of frameworks and tools used to develop a software p
 
 ![image](https://user-images.githubusercontent.com/85379793/129636791-ef40ae27-0730-451d-a9ed-ca0ab9ce5aa1.png)
 
+STEP 3 — INSTALLING PHP
+![image](https://user-images.githubusercontent.com/85379793/129637539-0d626251-1756-4b59-9137-2bb658913396.png)
 
 
 
