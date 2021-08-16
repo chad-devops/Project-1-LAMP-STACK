@@ -20,6 +20,26 @@ PHP Version
 
 ![image](https://user-images.githubusercontent.com/85379793/129637904-d76ef34b-5947-4dc0-bf34-bb8843b75b30.png)
 
+STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
+![image](https://user-images.githubusercontent.com/85379793/129638485-d38f5abc-67bc-4211-97fb-f9c2ae49e84f.png)
+
+![image](https://user-images.githubusercontent.com/85379793/129638687-73c5eb48-dfe2-4aa1-b1eb-092544bd167b.png)
+
+![image](https://user-images.githubusercontent.com/85379793/129638799-e4980eaf-a3e5-4dcb-8ec8-7db26bb96958.png)
+
+![image](https://user-images.githubusercontent.com/85379793/129639122-56cb209d-aa2f-40e8-bac8-39a9e806fd21.png)![image](https://user-
+
+images.githubusercontent.com/85379793/129639461-b40eea60-e74e-45e9-83bf-b0dab2f1222d.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
