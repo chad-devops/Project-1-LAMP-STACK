@@ -29,7 +29,7 @@ STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
 
 ![image](https://user-images.githubusercontent.com/85379793/129639122-56cb209d-aa2f-40e8-bac8-39a9e806fd21.png)![image](https://user-
 
-images.githubusercontent.com/85379793/129639461-b40eea60-e74e-45e9-83bf-b0dab2f1222d.png)
+![image](https://user-images.githubusercontent.com/85379793/129639517-c09d2806-f065-4df0-b4c2-72edc2c1fadb.png)
 
 
 
