@@ -3,7 +3,12 @@
 
 A technology stack is a set of frameworks and tools used to develop a software product. This set of frameworks and tools are very specifically chosen to work together in creating a well-functioning software. They are acronymns for individual technologies used together for a specific technology product. some examples are…
 
+STEP 1 — INSTALLING APACHE AND UPDATING THE FIREWALL
+
 ![image](https://user-images.githubusercontent.com/85379793/129578656-e12d303b-8c75-44b5-86a4-ad415b36a659.png)
+
+![image](https://user-images.githubusercontent.com/85379793/129650056-b7e9ab1b-04cd-4fa8-8eec-18d88e4a61e7.png)
+
 
 ![image](https://user-images.githubusercontent.com/85379793/129579050-09881fa2-c225-49fc-90ad-ef78350323bb.png)
 
