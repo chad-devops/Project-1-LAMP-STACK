@@ -37,6 +37,25 @@ STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
 ![image](https://user-images.githubusercontent.com/85379793/129639517-c09d2806-f065-4df0-b4c2-72edc2c1fadb.png)
 
 
+STEP 5 — ENABLE PHP ON THE WEBSITE
+
+![image](https://user-images.githubusercontent.com/85379793/129650578-5329994e-f93e-41c4-a6c6-d6a30e387ef2.png)
+
+Create a new file named index.php inside your custom web root folder:
+
+![image](https://user-images.githubusercontent.com/85379793/129650780-26f7a2e4-4859-45a4-9aa7-ee4662797ae9.png)
+
+
+![image](https://user-images.githubusercontent.com/85379793/129650921-d0768b29-5068-4f4a-b33c-1e5d1b994680.png)
+
+
+![image](https://user-images.githubusercontent.com/85379793/129651036-dc1950c4-5b48-4138-84f3-fb2279bb154e.png)
+
+
+
+
+
+
 
 
 
